@@ -14,9 +14,8 @@ I learned how to incorporate a backend using node.js, MySQL and sequelize.
 - [Use](#use)
 - [Contribute](#contribute)
 - [Credits](#credits)
-- [License](#license)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Links](#links)
+- [Screenshot](#screenshot)
 
 ## Install
 
